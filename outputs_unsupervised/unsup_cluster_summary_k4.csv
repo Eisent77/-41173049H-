@@ -1,0 +1,5 @@
+﻿cluster,n_samples,withdrawn_rate,mean_total_clicks,median_total_clicks,top3_activity_features
+0,22241,0.25565397239332766,239.55865293826716,189.0,"act_forumng_7w, act_oucontent_7w, act_homepage_7w"
+1,2653,0.11006407840180928,1370.2717678100264,1189.0,"act_oucontent_7w, act_forumng_7w, act_quiz_7w"
+2,77,0.15584415584415584,668.2207792207793,518.0,"act_forumng_7w, act_homepage_7w, act_subpage_7w"
+3,3276,0.15293040293040294,870.3711843711844,756.0,"act_forumng_7w, act_homepage_7w, act_oucontent_7w"
